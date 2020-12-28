@@ -21,3 +21,15 @@
 ### day5: make Feed
 
 ![md-Image/Untitled4.png](md-Image/Untitled4.png)
+
+### day6: make Widgets
+
+![md-Image/Untitled5.png](md-Image/Untitled5.png)
+
+### day7: authentication and firebase deploy! 🚀
+
+![md-Image/Untitled6.png](md-Image/Untitled6.png)
+
+**deploy link** 👉 [https://facebook-clone-fb235.web.app](https://facebook-clone-fb235.web.app/)
+
+![md-Image/Untitled7.png](md-Image/Untitled7.png)

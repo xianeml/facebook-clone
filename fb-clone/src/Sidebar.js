@@ -8,14 +8,14 @@ import ChatIcon from '@material-ui/icons/Chat';
 import StorefrontIcon from '@material-ui/icons/Storefront';
 import VideoLibraryIcon from '@material-ui/icons/VideoLibrary';
 import { ExpandMoreOutlined } from '@material-ui/icons';
+import { useStateValue } from './StateProvider';
 
 const Sidebar = () => {
+  const [{ user }, dispatch] = useStateValue();
+
   return (
     <div className='sidebar'>
-      <SidebarRow
-        src='https://github.com/xianeml/mini-portfolio/blob/master/Img/pic.jpg?raw=true'
-        title='Mihyun'
-      />
+      <SidebarRow src={user.photoURL} title={user.displayName} />
       <SidebarRow
         Icon={LocalHospitalIcon}
         title='COVID-19 Information Center'
