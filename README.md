@@ -9,3 +9,7 @@
 ### day2: make Sidebar
 
 ![md-Image/Untitled1.jpg](md-Image/Untitled1.jpg)
+
+### day3: make Story feed
+
+![md-Image/Untitled2.png](md-Image/Untitled2.png)
